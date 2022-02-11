@@ -1,4 +1,4 @@
-# Youtube to MP3
+# Youtube to MP3/MP4
 
 >Paste the video's link to the input.  
 >Youtube link to mp3 file.  
